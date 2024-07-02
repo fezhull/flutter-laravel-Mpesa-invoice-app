@@ -119,18 +119,14 @@ Copy code
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-8. Badges (Optional)
-Include badges for build status, version, license, etc., if applicable.
-markdown
-Copy code
-[![Build Status](https://travis-ci.org/yourusername/flutter-laravel-invoice-system.svg?branch=main)](https://travis-ci.org/yourusername/flutter-laravel-invoice-system)
-9. Contact Information (Optional)
+
+8. Contact Information (Optional)
 Provide your contact information or a way for users to reach you for questions or feedback.
 markdown
 Copy code
 ## Contact
 
-For questions or feedback, contact me at your@email.com.
+For questions or feedback, contact me at fez@gmail.com.
 Final Notes
 Formatting: Use markdown syntax for headings, lists, code blocks, and links.
 Clarity: Ensure all steps are clear and easy to follow, even for beginners.
