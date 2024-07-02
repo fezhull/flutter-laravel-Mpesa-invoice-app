@@ -133,6 +133,15 @@ Clarity: Ensure all steps are clear and easy to follow, even for beginners.
 Maintenance: Keep your README updated as your project evolves.
 By following these steps, you can create a comprehensive README that helps users understand and engage with your Flutter and Laravel invoice system project on GitHub effectively.
 
+<img width="231" alt="img1" src="https://github.com/fezhull/flutter-laravel-Mpesa-invoice-app/assets/36967859/c864710b-6516-4148-bced-e22a957d2b73">
+
+<img width="239" alt="img2" src="https://github.com/fezhull/flutter-laravel-Mpesa-invoice-app/assets/36967859/9f745b35-589d-44ea-954f-e8143dab7aea">
+
+<img width="218" alt="img4" src="https://github.com/fezhull/flutter-laravel-Mpesa-invoice-app/assets/36967859/3b903c5e-0f5f-4a04-a299-a71a93bf9c0c">
+
+<img width="211" alt="img9" src="https://github.com/fezhull/flutter-laravel-Mpesa-invoice-app/assets/36967859/3173506f-fe9e-49ca-8da0-d8fc84edde8a">
+
+<img width="582" alt="img8" src="https://github.com/fezhull/flutter-laravel-Mpesa-invoice-app/assets/36967859/97598843-7af8-4736-bb25-af2e4d7c6afe">
 
 
 
